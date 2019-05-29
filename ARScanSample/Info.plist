@@ -20,6 +20,8 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoiaG9uZ2FuIiwiYSI6ImNqdzdpZ3l1ZzJidm0zenBzczR6YXhqYW8ifQ.13u15NVE1qIPnn7xyskdcQ</string>
 	<key>NSCameraUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
